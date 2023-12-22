@@ -18,6 +18,10 @@
   {
     "question": "What is the name for the small plastic card you can use to buy things and pay for them later?",
     "answer": "'Credit card'"
+  },
+  {
+    "question": "I am a coin worth 25 cents. If you have 4 of me, how much money do you have?",
+    "answer": "'$1'"
   }
 
 

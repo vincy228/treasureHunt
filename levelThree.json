@@ -18,6 +18,10 @@
   {
     "question": "What is the name for a sudden and severe drop in the value of a region's financial assets?",
     "answer": "'Financial crisis'"
+  },
+  {
+    "question": "I am a bill worth $5. If I am made up of 20 bills, what is my total value?",
+    "answer": "'$100'"
   }
 
 

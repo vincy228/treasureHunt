@@ -12,12 +12,16 @@
     "answer": "'Derivative'"
   },
   {
-    "question": "What do we call a financial institution that accepts deposits and channels the money into lending activities?",
-    "answer": "'Bank'"
+    "question": "If you have $60 and you want to split it equally among 4 friends, how much money will each friend get?",
+    "answer": "'$15'"
   },
   {
     "question": "What term describes the legal responsibility to pay debts or fulfill financial obligations?",
     "answer": "'Liability'"
+  },
+  {
+    "question": "I am a bill worth $20. If I am made up of 6 bills, what is my total value?",
+    "answer": "'$120'"
   }
 
 

@@ -18,7 +18,29 @@
   {
     "question": "What term refers to a situation where a country's imports exceed its exports, resulting in a negative balance of trade?",
     "answer": "'Trade deficit'"
+  },
+  {
+    "question": "If you have $20 and you spend 25% of it, how much money do you have left?",
+    "answer": "'$15'"
+  },
+  {
+    "question": "You borrowed $50 from your friend and promised to pay back 10% interest after a month. How much money do you need to return after a month?",
+    "answer": "'$55'"
+  },
+  {
+    "question": "I am a three-digit number. The sum of my digits is 12. My tens digit is three times my ones digit, and my hundreds digit is one less than my tens digit. What number am I?",
+    "answer": "'639'"
+  },
+  {
+    "question": "If you have $1000 in a savings account that earns 5% interest annually, how much money will you have in the account after 3 years?",
+    "answer": "'$1157.63'"
+  },
+  {
+    "question": "If you buy three items priced at $8, $15, and $20, how much money will you spend in total including sales tax of 8%?",
+    "answer": "'$47.04'"
   }
+
+
 
 
 
